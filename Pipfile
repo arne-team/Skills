@@ -1,0 +1,29 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+jupyter-contrib-nbextensions = "*"
+jupyterthemes = "*"
+pandas = "*"
+numpy = "*"
+pillow = "*"
+spacy = "*"
+wordcloud = "*"
+seaborn = "*"
+sklearn = "*"
+folium = "*"
+keras = "*"
+tensorflow = "*"
+pydot = "*"
+graphviz = "*"
+torch = "*"
+torchvision = "*"
+transformers = "*"
+
+[requires]
+python_version = "3.8"
